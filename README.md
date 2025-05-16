@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on making a KickOff, a football website<br>with external calendar integration ⚽ <br>I'm currently learning typescript and springboot 😎<br>I am a big barcelona fan ❤️💙
+I'm currently working on making KickOff, a football website<br>with external calendar integration ⚽ <br>I'm currently learning typescript and springboot 😎<br>I am a big barcelona fan ❤️💙
 
 
 ## 🌐 Socials:
