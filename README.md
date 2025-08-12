@@ -1,6 +1,6 @@
 # 💫 About Me:
-My name is Rudy Gonzalez, a CS student attending the University of Texas at Dallas.<br><br/>
-I am currently serving as the Technology Director of the UTD SHPE chapter, and as a Technical Interview Prep Instuctor for ACM UTD!<br></br>
+My name is Rudy Gonzalez, a CS student attending the University of Texas at Dallas.<br/>
+I am currently serving as the Technology Director of the UTD SHPE chapter, and as a Technical Interview Prep Instuctor for ACM UTD!<br/>
 
 
 ## 🌐 Socials:
